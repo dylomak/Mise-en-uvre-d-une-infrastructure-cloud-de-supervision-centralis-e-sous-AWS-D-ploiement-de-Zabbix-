@@ -1,4 +1,4 @@
-| <img src="./img/logo_enset.png" width="150"> | <center width="500">**UNIVERSITÉ HASSAN II DE CASABLANCA**<br> <br> ENSET MOHAMMEDIA<br> <br> *DEPARTEMENT DE MATHEMATIQUES INFORMATIQUE*</center> | <img src="./img/arabe.png" width="150"> |
+| <img src="hestim logo.webp" width="150"> | <center width="500">**HESTIM CASABLANCA**<br> <br> <br> <br> *2èma année cycle ingénieur d'Etat informatioque Intéligence artificielle & Cybersécurité*</center> | <img src="./img/arabe.png" width="150"> |
 | :--- | :---: | ---: |
 </center>
 
@@ -15,8 +15,8 @@
 
 ## 🎓 Informations Générales :
 * **Filière :** Ingénierie Informatique Big Data Cloud Computing (IIBDCC)
-* **Module :** Sécurité des SI & Cyber Sécurité
-* **Réalisé par :** TSEH Kokou Benoît
+* **Module :** Sécurité des Prtocoles
+* **Réalisé par :** MAKOSSO Dylan Elohim Vianney
 * **Encadré par :** Prof. Azeddine KHIAT
 * **Année Universitaire :** 2025-2026
 
