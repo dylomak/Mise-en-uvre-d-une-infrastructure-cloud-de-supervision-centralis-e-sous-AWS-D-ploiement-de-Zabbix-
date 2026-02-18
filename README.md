@@ -11,7 +11,7 @@
 
 </center>
 
-<center> <img src ="./img/aws.png" width="150" >  <img src ="./img/zabbix.png" width="150">  </center>
+<center> <img src ="aws.png" width="150" >  <img src ="zabbix.png" width="150">  </center>
 
 ## 🎓 Informations Générales :
 * **Filière :** Ingénierie Informatique options Cybersécurité
@@ -43,7 +43,7 @@ Le projet s'articule autour de trois axes majeurs :
 
 ---
 ## 🌐 Architecture globale du projet 
-![architectue globale du  projet](./img/architecture.png)
+![architectue globale du  projet](architecture.png)
 
 
 ## ☁️ 2. Architecture Réseau
