@@ -1,4 +1,4 @@
-| <img src="hestim logo.webp" width="150"> | <center width="500">**HESTIM CASABLANCA**<br> <br> <br> <br> *2èma année cycle ingénieur d'Etat informatioque Intéligence artificielle & Cybersécurité*</center> | <img src="./img/arabe.png" width="150"> |
+| <img src="hestim logo.webp" width="150"> | <center width="500">**HESTIM CASABLANCA**<br> <br> <br> <br> *2ème année cycle ingénieur d'Etat Informatioque Intéligence Artificielle & Cybersécurité*</center> | <img src="./img/arabe.png" width="150"> |
 | :--- | :---: | ---: |
 </center>
 
@@ -14,8 +14,8 @@
 <center> <img src ="./img/aws.png" width="150" >  <img src ="./img/zabbix.png" width="150">  </center>
 
 ## 🎓 Informations Générales :
-* **Filière :** Ingénierie Informatique Big Data Cloud Computing (IIBDCC)
-* **Module :** Sécurité des Prtocoles
+* **Filière :** Ingénierie Informatique options Cybersécurité
+* **Module :** Sécurité des Protocoles
 * **Réalisé par :** MAKOSSO Dylan Elohim Vianney
 * **Encadré par :** Prof. Azeddine KHIAT
 * **Année Universitaire :** 2025-2026
